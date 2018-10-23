@@ -1,5 +1,0 @@
-{
-
-   printf("akhil");
-   printf("kalpana");
-        }
