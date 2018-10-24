@@ -1,4 +1,8 @@
 class Demo
+{
+add: +++++++++++
+    }
+.........
   {
    p s void main()
   {
